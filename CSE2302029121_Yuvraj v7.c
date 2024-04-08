@@ -513,5 +513,5 @@ void cw()
     printf("\t\t\t\t\t=|^Section: 29A2              |=\n");
     printf("\t\t\t\t\t=|^Department of CSE          |=\n");
     printf("\t\t\t\t\t=|^Sonargaon University       |=\n");
-    printf("\t\t\t\t\t=|^Phone: +8801905199725      |=\n");
+    printf("\t\t\t\t\t=|^Phone: +8801*05199***      |=\n");
 }
